@@ -1,5 +1,17 @@
-🏋️‍♀️ **FitZone Gym Website**
-HTML | CSS | JavaScript
+# 🏋️‍♀️ **FitZone Gym Website**
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+---
+
+## 🔎 Navigation
+- [📌 Overview](#-overview)
+- [🌐 Live Website](#-live-website)
+- [✨ Features](#-features)
+- [🌐 Pages](#-pages)
+- [📂 Project Structure](#-project-structure)
+- [👩‍💻 Team Members](#team-members)
 
 ---
 
@@ -30,20 +42,20 @@ https://durdona-creator.github.io/SharifovaDurdona.github.io/
 
 ## 🌐 Pages
 
-🏠 **Home**
-https://durdona-creator.github.io/SharifovaDurdona.github.io/
+### 🏠 **Home**
+[Open Home Page](https://durdona-creator.github.io/SharifovaDurdona.github.io/)
 
-💳 **Membership**
-https://durdona-creator.github.io/SharifovaDurdona.github.io/page2.html
+### 💳 **Membership**
+[Open Membership Page](https://durdona-creator.github.io/SharifovaDurdona.github.io/page2.html)
 
-👥 **Community**
-https://durdona-creator.github.io/SharifovaDurdona.github.io/page3.html
+### 👥 **Community**
+[Open Community Page](https://durdona-creator.github.io/SharifovaDurdona.github.io/page3.html)
 
-📝 **Join (Registration Form)**
-https://durdona-creator.github.io/SharifovaDurdona.github.io/page4.html
+### 📝 **Join (Registration Form)**
+[Open Registration Form](https://durdona-creator.github.io/SharifovaDurdona.github.io/page4.html)
 
-📊 **My Fit (Dashboard)**
-https://durdona-creator.github.io/SharifovaDurdona.github.io/page5.html
+### 📊 **My Fit (Dashboard)**
+[Open My Fit Dashboard](https://durdona-creator.github.io/SharifovaDurdona.github.io/page5.html)
 
 ---
 
@@ -66,13 +78,9 @@ https://durdona-creator.github.io/SharifovaDurdona.github.io/page5.html
 
 ---
 
-## 👩‍💻 Team Members
+## Team Members
 
-* Durdona Sharifova (Project Lead)
-* Kusselbayeva Kamila
-* Anjuman Mst Atika
-* Ruba Nishat Tasnim
-
----
-
-└── README.md
+* [Durdona Sharifova](https://github.com/Durdona-creator) - Project Lead
+* [Kusselbayeva Kamila](https://github.com/KamiiKu)
+* [Anjuman Mst Atika](https://github.com/atikaadamatikaazad-web)
+* [Ruba Nishat Tasnim](https://github.com/nishattasnimruba-spec)
